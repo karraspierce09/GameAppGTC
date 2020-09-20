@@ -1,0 +1,7 @@
+C:\Users\karrit\source\repos\GTC\GTC\bin\Debug\GTC.exe.config
+C:\Users\karrit\source\repos\GTC\GTC\bin\Debug\GTC.exe
+C:\Users\karrit\source\repos\GTC\GTC\bin\Debug\GTC.pdb
+C:\Users\karrit\source\repos\GTC\GTC\obj\Debug\GTC.csprojAssemblyReference.cache
+C:\Users\karrit\source\repos\GTC\GTC\obj\Debug\GTC.csproj.CoreCompileInputs.cache
+C:\Users\karrit\source\repos\GTC\GTC\obj\Debug\GTC.exe
+C:\Users\karrit\source\repos\GTC\GTC\obj\Debug\GTC.pdb
